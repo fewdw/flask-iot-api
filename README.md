@@ -1,6 +1,6 @@
-#API Documentation
+# API Documentation
 
-##Using Time Series To get All data
+## Using Time Series To get All data
 
 Get all the data coming from a specific time series
 
@@ -36,7 +36,7 @@ Get all the data coming from a specific time series
 
 ```
 
-##Using Time Series To get All data From Certain Customer
+## Using Time Series To get All data From Certain Customer
 
 Get all the data coming from a specific time series from a specific customer
 
@@ -71,7 +71,7 @@ Get all the data coming from a specific time series from a specific customer
 
 ```
 
-##Using Time Series To get All data From Customer Specific Location
+## Using Time Series To get All data From Customer Specific Location
 
 Get all the data coming from a specific time series from a specific customer and a specific location
 
@@ -107,7 +107,7 @@ Get all the data coming from a specific time series from a specific customer and
 
 ```
 
-##Getting all data
+## Getting all data
 
 Get all data from all customers and devices
 
@@ -133,7 +133,7 @@ Get all data from all customers and devices
 
 ```
 
-##Getting all data
+## Getting all data
 
 Get all data from all customers and devices
 
@@ -159,7 +159,7 @@ Get all data from all customers and devices
 
 ```
 
-##Getting all locked devices
+## Getting all locked devices
 
 Get all currently locked devices
 
@@ -185,7 +185,7 @@ Get all currently locked devices
 
 ```
 
-##Getting all unlocked devices
+## Getting all unlocked devices
 
 Get all unlocked device from mongo
 
@@ -212,7 +212,7 @@ Get all unlocked device from mongo
 ```
 
 
-##Getting all devices from specific location
+## Getting all devices from specific location
 
 Get all devices from a specific location
 
@@ -238,7 +238,7 @@ Get all devices from a specific location
 
 ```
 
-##Getting all devices from specific user
+## Getting all devices from specific user
 
 Get all devices from specific user
 
@@ -264,7 +264,7 @@ Get all devices from specific user
 
 ```
 
-##Posting a new action
+## Posting a new action
 
 Add new action to Mongo
 
@@ -288,7 +288,7 @@ Add new action to Mongo
 	}
 ```
 
-##Deleting a log
+## Deleting a log
 
 Delete log from mongo
 
@@ -310,7 +310,7 @@ Delete log from mongo
 }
 ```
 
-##Replacing a log
+## Replacing a log
 
 Replace fields from current log
 
