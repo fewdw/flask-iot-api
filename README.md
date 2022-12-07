@@ -132,32 +132,7 @@ Get all data from all customers and devices
 	]
 
 ```
-
-## Getting all data
-
-Get all data from all customers and devices
-
-**URL** : `/data`
-
-**Method** : `GET`
-
-**Data example**
-```json
-    [
-		{
-			"_id": {
-				"$oid": "638ee3f7703e0f92293097c7"
-			},
-			"action": "unlocked",
-			"customerid": "83ed12c6-75ec-11ed-a1eb-0242ac120002",
-			"location": "back-door",
-			"timestamp": {
-				"$date": "2022-12-06T01:40:55Z"
-			}
-		}
-	]
-
-```
+`
 
 ## Getting all locked devices
 
